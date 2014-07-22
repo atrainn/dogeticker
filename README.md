@@ -1,4 +1,4 @@
-Crytoticker is the main method. 
+Cryptoticker is the main method. 
 
 Running it will output to your terminal or 16x2 Rpi screen.
 
