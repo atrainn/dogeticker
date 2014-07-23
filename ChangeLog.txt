@@ -1,0 +1,5 @@
+7/22/2014
+
+Created a separate folder for Rasbian. Just download and run cryptoticker.pi
+Show $ before values
+Updates values every 300 seconds
